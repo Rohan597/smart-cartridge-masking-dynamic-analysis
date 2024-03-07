@@ -1,0 +1,5 @@
+numpy==1.26.2
+opencv-python==4.9.0
+imutils==0.5.4
+matplotlib==3.8.2 # For plotting or visualizations
+scipy==1.11.4 # For helper functions which require scientific computations not covered by numpy
